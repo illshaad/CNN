@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+}
+.menu{
+display: flex;
+background-color: black;
+justify-content: space-around;
+color: whitesmoke;
+height: 30px;
+padding-bottom: 10px;
+padding-top: 30px;
+}
+
+.menu li{
+    list-style: none;
+}
+
+.page1 img{
+  width: 1520px;
+}
+
+.page2 img{
+    width: 90%;
+    margin-left: 8%;
+}
+
+.page2 img{
+    width: 100%;
+    margin-left: 0px;
+
+}
